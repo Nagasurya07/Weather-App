@@ -8,6 +8,8 @@ Weather App4u! is a simple and intuitive weather application that provides accur
 - **User-friendly Interface**: Simple and clean design for easy navigation.
 - **Additional Weather Details**: Includes temperature, weather description, wind speed, humidity, and pressure.
 - **Loading Indicator**: Shows a loading message while fetching data.
+- ![image](https://github.com/user-attachments/assets/4c2275fc-f582-470a-95f9-e420d9b449f8)
+
 
 ## Technologies Used
 - **HTML**: Structure of the application.
