@@ -37,8 +37,7 @@ Weather App4u! is a simple and intuitive weather application that provides accur
 3. Open `index.html` in your preferred browser.
 
 ## Dependencies
-- jQuery
-- Moment.js
+
 - OpenWeatherMap API
 
 ## License
