@@ -15,8 +15,6 @@ Weather App4u! is a simple and intuitive weather application that provides accur
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout.
 - **JavaScript**: Fetching and displaying weather data.
-- **jQuery**: Simplified JavaScript operations.
-- **Moment.js**: Handling date and time.
 - **OpenWeatherMap API**: Source of weather data.
 
 ## How to Use
