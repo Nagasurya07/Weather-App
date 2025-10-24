@@ -3,7 +3,7 @@ https://nagasurya07.github.io/Weather-App/
 ## Description
 Weather App4u! is a simple and intuitive weather application that provides accurate weather information for any city. The app fetches real-time weather data and displays it in a user-friendly interface. It includes details such as temperature, weather description, wind speed, humidity, and pressure.
 
-## Features
+
 - **Real-time Weather Data**: Get up-to-date weather information for any city.
 - **User-friendly Interface**: Simple and clean design for easy navigation.
 - **Additional Weather Details**: Includes temperature, weather description, wind speed, humidity, and pressure.
